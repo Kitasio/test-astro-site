@@ -1,3 +1,27 @@
+# Tooling
+### Terminal
+* NPM via [nvm](https://github.com/nvm-sh/nvm)
+* [git](https://git-scm.com/)
+
+
+### Frontend framework
+[Astro](https://astro.build/)
+1. [100 seconds](https://www.youtube.com/watch?v=dsTXcSeAZq8)
+
+
+### CSS framework
+[tailwind](https://tailwindcss.com/)
+1. [100 seconds](https://www.youtube.com/watch?v=mr15Xzb1Ook)
+2. [13 minutes](https://www.youtube.com/watch?v=pfaSUYaSgRo)
+3. [~1.5 hours](https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw)
+
+
+# Prod deployment
+* [Vercel](https://vercel.com)
+* [Netlify](https://www.netlify.com/)
+* [Github pages](https://pages.github.com/)
+
+
 # Welcome to [Astro](https://astro.build)
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)

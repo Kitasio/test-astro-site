@@ -6,5 +6,3 @@
     <button on:click={() => count++}>click</button>
     <div>{count}</div>
 </div>
-
-<style></style>
